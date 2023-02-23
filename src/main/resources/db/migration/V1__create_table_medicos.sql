@@ -4,7 +4,6 @@ CREATE TABLE tb_medicos(
     email VARCHAR(30) NOT NULL,
     crm VARCHAR(6) NOT NULL,
     especialidade VARCHAR(20) NOT NULL,
-    telefone VARCHAR(20),
     logradouro VARCHAR(30) NOT NULL,
     bairro VARCHAR(30) NOT NULL,
     cep VARCHAR(9) NOT NULL,
